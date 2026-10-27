@@ -1,6 +1,6 @@
 # Projeto-Fashion
 Atividade Página-Fashion 👜
-Na aula do dia 27/10/2026, foi realizado a criação de uma página HTML afim de inspecionar o conehcimento geral dos alunos.
+Na aula do dia 27/10/2026, foi realizado a criação de uma página HTML afim de analisar o conhecimento geral dos alunos.
 -----------------------------------------------------------------------------
 optei pela seguinte divisão do projeto (commits):
 (optei por começar a dar commits a partir do float pela maior possibilidade de erro)
